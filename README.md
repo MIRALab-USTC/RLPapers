@@ -37,9 +37,9 @@
 
 **When to trust your model: Model-based policy optimization.** NIPS 2019. *Jacob Buckman, Danijar Hafner, George Tucker, Eugene Brevdo, Honglak Lee.* [[Paper](http://papers.nips.cc/paper/9416-when-to-trust-your-model-model-based-policy-optimization)]
 
-**Benchmarking Model-Based Reinforcement Learning.** *Tingwu Wang, Xuchan Bao, Ignasi Clavera, Jerrick Hoang, Yeming Wen, Eric Langlois, Shunshi Zhang, Guodong Zhang, Pieter Abbeel, Jimmy Ba.* [[Paper](https://arxiv.org/abs/1907.02057)]
+**Benchmarking Model-Based Reinforcement Learning.** 2019. *Tingwu Wang, Xuchan Bao, Ignasi Clavera, Jerrick Hoang, Yeming Wen, Eric Langlois, Shunshi Zhang, Guodong Zhang, Pieter Abbeel, Jimmy Ba.* [[Paper](https://arxiv.org/abs/1907.02057)]
 
-**Mastering atari, go, chess and shogi by planning with a learned model.** *Julian Schrittwieser, Ioannis Antonoglou, Thomas Hubert, Karen Simonyan, Laurent Sifre, Simon Schmitt, Arthur Guez, Edward Lockhart, Demis Hassabis, Thore Graepel, Timothy Lillicrap, David Silver.* [[Paper](https://arxiv.org/abs/1911.08265)]
+**Mastering atari, go, chess and shogi by planning with a learned model.** 2019. *Julian Schrittwieser, Ioannis Antonoglou, Thomas Hubert, Karen Simonyan, Laurent Sifre, Simon Schmitt, Arthur Guez, Edward Lockhart, Demis Hassabis, Thore Graepel, Timothy Lillicrap, David Silver.* [[Paper](https://arxiv.org/abs/1911.08265)]
 
 **Learning Latent Dynamics for Planning from Pixels.** ICML 2019.  *Danijar Hafner, Timothy Lillicrap, Ian Fischer, Ruben Villegas, David Ha, Honglak Lee, James Davidson.* [[Paper](http://proceedings.mlr.press/v97/hafner19a.html)]
 
@@ -47,9 +47,9 @@
 
 **DeepMDP: Learning Continuous Latent Space Models for Representation Learning**. ICML 2019. *Carles Gelada, Saurabh Kumar, Jacob Buckman, Ofir Nachum, Marc G. Bellemare.* [[Paper](http://proceedings.mlr.press/v97/gelada19a.html)]
 
-**Model-based reinforcement learning for atari.**  Lukasz Kaiser, Mohammad Babaeizadeh, Piotr Milos, Blazej Osinski, Roy H Campbell, Konrad Czechowski, Dumitru Erhan, Chelsea Finn, Piotr Kozakowski, Sergey Levine, Afroz Mohiuddin, Ryan Sepassi, George Tucker, Henryk Michalewski. [[Paper](https://arxiv.org/abs/1903.00374)]
+**Stochastic Latent Actor-Critic: Deep Reinforcement Learning with a Latent Variable Model**. 2019. *Alex X. Lee, Anusha Nagabandi, Pieter Abbeel, Sergey Levine.* [[Paper](https://arxiv.org/abs/1907.00953)]
 
-**Stochastic Latent Actor-Critic: Deep Reinforcement Learning with a Latent Variable Model.** Alex X. Lee, Anusha Nagabandi, Pieter Abbeel, Sergey Levine. [[Paper](https://arxiv.org/abs/1907.00953)]
+**Model-based reinforcement learning for atari.**  ICLR 2020. *Lukasz Kaiser, Mohammad Babaeizadeh, Piotr Milos, Blazej Osinski, Roy H Campbell, Konrad Czechowski, Dumitru Erhan, Chelsea Finn, Piotr Kozakowski, Sergey Levine, Afroz Mohiuddin, Ryan Sepassi, George Tucker, Henryk Michalewski.* [[Paper](https://arxiv.org/abs/1903.00374)]
 
 **Exploring Model-based Planning with Policy Networks.** ICLR 2020. *Tingwu Wang, Jimmy Ba.* [[Paper](https://arxiv.org/abs/1906.08649)]
 
@@ -57,9 +57,9 @@
 
 ### [Model is Known](#content)
 
-**Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm.** *David Silver, Thomas Hubert, Julian Schrittwieser, Ioannis Antonoglou, Matthew Lai, Arthur Guez, Marc Lanctot, Laurent Sifre, Dharshan Kumaran, Thore Graepel, Timothy Lillicrap, Karen Simonyan, Demis Hassabis.* [[Paper](https://arxiv.org/abs/1712.01815)]
+**Thinking Fast and Slow with Deep Learning and Tree Search.** NIPS 2017. *Thomas Anthony, Zheng Tian, David Barber.* [[Paper](https://arxiv.org/abs/1705.08439)]
 
-**Thinking Fast and Slow with Deep Learning and Tree Search.** *Thomas Anthony, Zheng Tian, David Barber.* [[Paper](https://arxiv.org/abs/1705.08439)]
+**Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm**. 2019. *David Silver, Thomas Hubert, Julian Schrittwieser, Ioannis Antonoglou, Matthew Lai, Arthur Guez, Marc Lanctot, Laurent Sifre, Dharshan Kumaran, Thore Graepel, Timothy Lillicrap, Karen Simonyan, Demis Hassabis.* [[Paper](https://arxiv.org/abs/1712.01815)]
 
 ## [Policy Gradient and Actor-critic](#content)
 
@@ -69,11 +69,11 @@
 
 **Deterministic Policy Gradient Algorithms.** ICML 2014. *David Silver, Guy Lever, Nicolas Heess, Thomas Degris, Daan Wierstra, Martin Riedmiller.* [[Paper](http://proceedings.mlr.press/v32/silver14.pdf)]
 
-**Continuous Control With Deep Reinforcement Learning.** *Timothy P. Lillicrap, Jonathan J. Hunt, Alexander Pritzel, Nicolas Heess, Tom Erez, Yuval Tassa, David Silver, Daan Wierstra.* [[Paper](https://arxiv.org/abs/1509.02971)]
-
 **Trust Region Policy Optimization.** JMLR 2015. John Schulman, *Sergey Levine, Philipp Moritz, Michael Jordan, Pieter Abbeel.* [[Paper](https://arxiv.org/abs/1502.05477)]
 
-**Proximal Policy Optimization Algorithms.** *John Schulman, Filip Wolski, Prafulla Dhariwal, Alec Radford, Oleg Klimov.* [[Paper](https://arxiv.org/abs/1707.06347)]
+**Continuous Control with Deep Reinforcement Learning.** ICLR 2016. *Timothy P. Lillicrap, Jonathan J. Hunt, Alexander Pritzel, Nicolas Heess, Tom Erez, Yuval Tassa, David Silver, Daan Wierstra.* [[Paper](https://arxiv.org/abs/1509.02971)]
+
+**Proximal Policy Optimization Algorithms.** 2017. *John Schulman, Filip Wolski, Prafulla Dhariwal, Alec Radford, Oleg Klimov.* [[Paper](https://arxiv.org/abs/1707.06347)]
 
 **Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor.** ICML 2018. *Tuomas Haarnoja, Aurick Zhou, Pieter Abbeel, Sergey Levine.* [[Paper](https://arxiv.org/abs/1801.01290)]
 
