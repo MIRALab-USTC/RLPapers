@@ -13,7 +13,7 @@
 
 <tr><td colspan="2"><a href="#offline-rl">3. Offline RL</a></td></tr>
 
-<tr><td colspan="2"><a href="#sparse-reward-rl-exploration">4. Exploration</a></td></tr>
+<tr><td colspan="2"><a href="#exploration">4. Exploration</a></td></tr>
 
 <tr><td colspan="2"><a href="#open-source-reinforcement-learning-platforms-and-algorithm-implementations">5. Open Source Reinforcement Learning Platforms and Algorithm Implementations</a></td></tr>
 
